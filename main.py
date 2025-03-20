@@ -3,3 +3,7 @@ def greet():
 
 def farewell():
     print("Goodbye, World!")
+
+def farewell_01():
+    print("Goodbye!")
+
